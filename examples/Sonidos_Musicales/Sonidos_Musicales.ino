@@ -25,7 +25,7 @@ void setup() {
   //-------------------------------------------------//
 
   //-------------------------------------------------//
-  //Inicializar la comunicación con la PC
+  //Inicializar la comunicación serial con la PC
   Serial.begin(9600);
   //-------------------------------------------------//
 }
